@@ -15,8 +15,7 @@
 Qualquer dúvida entre em contato
 <a href="mailto:icaro.suzumura.silva@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](https://tenor.com/pt-BR/view/chigur-gif-14322550488604022235)
-
+![](https://tenor.com/pt-BR/view/anton-chigurh-tractor-gif-11695862694021619555)
 <!--
 **icarosuzumurasilva-dotcom/icarosuzumurasilva-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
